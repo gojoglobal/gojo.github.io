@@ -1,11 +1,11 @@
 {
-    "name": "ppvc_location",
+    "name": "GOJO drives you to your vaccine center",
     "short_name": "ppvc_location",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Prebook GOJO and we will take you to get your vaccine and back home!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
