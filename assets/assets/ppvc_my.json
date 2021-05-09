@@ -1,0 +1,3058 @@
+[
+  {
+    "state": "Johor",
+    "district": "Kota Tinggi",
+    "ppvc": "KK Bandar Penawar",
+    "cd": "Johor",
+    "lat": 1.55332,
+    "lon": 104.23373
+  },
+  {
+    "state": "Johor",
+    "district": "Mersing",
+    "ppvc": "KK Tenggaroh 2",
+    "cd": "Johor",
+    "lat": 2.08402,
+    "lon": 103.94636
+  },
+  {
+    "state": "Johor",
+    "district": "Batu Pahat",
+    "ppvc": "Dewan Jubli Intan",
+    "cd": "Johor",
+    "lat": 1.8494,
+    "lon": 102.9326
+  },
+  {
+    "state": "Johor",
+    "district": "Johor Bahru",
+    "ppvc": "Dewan Muafakat Johor Taman Adda",
+    "cd": "Johor",
+    "lat": 1.5505,
+    "lon": 103.7439
+  },
+  {
+    "state": "Johor",
+    "district": "Johor Bahru",
+    "ppvc": "Dewan Raya Bandar Seri Alam, Masai",
+    "cd": "Johor",
+    "lat": 1.51294,
+    "lon": 103.86516
+  },
+  {
+    "state": "Johor",
+    "district": "Johor Bahru",
+    "ppvc": "Dewan Raya Taman Universiti",
+    "cd": "Johor",
+    "lat": 1.54103,
+    "lon": 103.63345
+  },
+  {
+    "state": "Johor",
+    "district": "Kluang",
+    "ppvc": "Dewan Jubli Intan Kluang",
+    "cd": "Johor",
+    "lat": 2.0315,
+    "lon": 103.3193
+  },
+  {
+    "state": "Johor",
+    "district": "Kota Tinggi",
+    "ppvc": "Dewan Jubli Intan Kota Tinggi",
+    "cd": "Johor",
+    "lat": 1.73618,
+    "lon": 103.90124
+  },
+  {
+    "state": "Johor",
+    "district": "Mersing",
+    "ppvc": "Dewan Jubli Intan. Mersing",
+    "cd": "Johor",
+    "lat": 2.43222,
+    "lon": 103.83959
+  },
+  {
+    "state": "Johor",
+    "district": "Muar",
+    "ppvc": "Dewan Maharani",
+    "cd": "Johor",
+    "lat": 2.03725,
+    "lon": 102.57001
+  },
+  {
+    "state": "Johor",
+    "district": "Pontian",
+    "ppvc": "Dewan Jubli Intan Pontian",
+    "cd": "Johor",
+    "lat": 1.4866,
+    "lon": 103.38807
+  },
+  {
+    "state": "Johor",
+    "district": "Segamat",
+    "ppvc": "Dewan Serbaguna Jalan Genuang",
+    "cd": "Johor",
+    "lat": 2.49456,
+    "lon": 102.84761
+  },
+  {
+    "state": "Johor",
+    "district": "Kulai",
+    "ppvc": "Dewan Raya Bandar Putra",
+    "cd": "Johor",
+    "lat": 1.6538,
+    "lon": 103.6262
+  },
+  {
+    "state": "Johor",
+    "district": "Tangkak",
+    "ppvc": "Dewan Jubli Intan Tangkak",
+    "cd": "Johor",
+    "lat": 2.26774,
+    "lon": 102.5364
+  },
+  {
+    "state": "Johor",
+    "district": "Batu Pahat",
+    "ppvc": "Hospital Sultanah Nora Ismail",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Johor Bahru",
+    "ppvc": "Hospital Sultanah Aminah",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Johor Bahru",
+    "ppvc": "Hospital Permai",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Johor Bahru",
+    "ppvc": "Hospital Sultan Ismail Johor Bahru",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Kluang",
+    "ppvc": "Hospital Enche' Besar Hajjah Khalsom",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Kota Tinggi",
+    "ppvc": "Hospital Kota Tinggi",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Mersing",
+    "ppvc": "Hospital Mersing",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Muar",
+    "ppvc": "Hospital Pakar Sultanah Fatimah",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Pontian",
+    "ppvc": "Hospital Pontian",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Segamat",
+    "ppvc": "Hospital Segamat",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Kulai",
+    "ppvc": "Hospital Temenggong Seri Maharaja Tun Ibrahim",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Johor",
+    "district": "Tangkak",
+    "ppvc": "Hospital Tangkak",
+    "cd": "Johor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Baling",
+    "ppvc": "Dewan Kenangan Tun Abdul Razak",
+    "cd": "Kedah",
+    "lat": 5.6743,
+    "lon": 100.9216
+  },
+  {
+    "state": "Kedah",
+    "district": "Bandar Baharu",
+    "ppvc": "Kompleks Sukan Komuniti Serdang",
+    "cd": "Kedah",
+    "lat": 5.20788,
+    "lon": 100.61323
+  },
+  {
+    "state": "Kedah",
+    "district": "Kota Setar",
+    "ppvc": "Stadium Tertutup Sultan Abdul Halim",
+    "cd": "Kedah",
+    "lat": 6.151,
+    "lon": 100.3658
+  },
+  {
+    "state": "Kedah",
+    "district": "Kuala Muda",
+    "ppvc": "Dewan Kenangan MPSP(K)",
+    "cd": "Kedah",
+    "lat": 5.6437,
+    "lon": 100.4871
+  },
+  {
+    "state": "Kedah",
+    "district": "Kubang Pasu",
+    "ppvc": "Dewan Tunku Anum",
+    "cd": "Kedah",
+    "lat": 6.2992,
+    "lon": 100.4218
+  },
+  {
+    "state": "Kedah",
+    "district": "Kubang Pasu",
+    "ppvc": "Dewan Sri Mas, Polimas Jitra",
+    "cd": "Kedah",
+    "lat": 6.24983,
+    "lon": 100.43215
+  },
+  {
+    "state": "Kedah",
+    "district": "Kulim",
+    "ppvc": "Dewan Bandaran Kulim",
+    "cd": "Kedah",
+    "lat": 5.3694,
+    "lon": 100.5586
+  },
+  {
+    "state": "Kedah",
+    "district": "Langkawi",
+    "ppvc": "Dewan Badminton Kompleks Sukan LADA, Kuah",
+    "cd": "Kedah",
+    "lat": 6.33212,
+    "lon": 99.8595
+  },
+  {
+    "state": "Kedah",
+    "district": "Padang Terap",
+    "ppvc": "Dewan Tunku Putra, Kuala Nerang",
+    "cd": "Kedah",
+    "lat": 6.2571,
+    "lon": 100.61357
+  },
+  {
+    "state": "Kedah",
+    "district": "Sik",
+    "ppvc": "Dewan Al Hana, Kedah",
+    "cd": "Kedah",
+    "lat": 5.82501,
+    "lon": 100.74729
+  },
+  {
+    "state": "Kedah",
+    "district": "Yan",
+    "ppvc": "Dewan Serbaguna Guar Chempedak",
+    "cd": "Kedah",
+    "lat": 5.85271,
+    "lon": 100.46125
+  },
+  {
+    "state": "Kedah",
+    "district": "Pendang",
+    "ppvc": "Dewan Cenderawasih, Pekan Pendang",
+    "cd": "Kedah",
+    "lat": 5.99136,
+    "lon": 100.47778
+  },
+  {
+    "state": "Kedah",
+    "district": "Baling",
+    "ppvc": "Hospital Baling",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Kota Setar",
+    "ppvc": "Hospital Sultanah Bahiyah",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Sungai Petani",
+    "ppvc": "Hospital Sultan Abdul Halim",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Kubang Pasu",
+    "ppvc": "Hospital Jitra",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Kulim",
+    "ppvc": "Hospital Kulim",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Langkawi",
+    "ppvc": "Hospital Langkawi",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Padang Terap",
+    "ppvc": "Hospital Kuala Nerang",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Sik",
+    "ppvc": "Hospital Sik",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kedah",
+    "district": "Yan",
+    "ppvc": "Hospital Yan",
+    "cd": "Kedah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Bachok",
+    "ppvc": "Dewan Tuanku Canselor UMK Bachok",
+    "cd": "Kelantan",
+    "lat": 5.99824,
+    "lon": 102.40188
+  },
+  {
+    "state": "Kelantan",
+    "district": "Bachok",
+    "ppvc": "Dewan Majlis Daerah Bachok",
+    "cd": "Kelantan",
+    "lat": 6.05643,
+    "lon": 102.39934
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kota Bharu",
+    "ppvc": "Dewan Sri Tunjung, Jabatan Pendidikan Negeri Kelantan",
+    "cd": "Kelantan",
+    "lat": 6.0631,
+    "lon": 102.2376
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kota Bharu",
+    "ppvc": "Dewan Majlis Daerah Ketereh",
+    "cd": "Kelantan",
+    "lat": 5.96041,
+    "lon": 102.25185
+  },
+  {
+    "state": "Kelantan",
+    "district": "Machang",
+    "ppvc": "Dewan Profesional UITM",
+    "cd": "Kelantan",
+    "lat": 5.76056,
+    "lon": 102.27461
+  },
+  {
+    "state": "Kelantan",
+    "district": "Machang",
+    "ppvc": "Dewan Perpaduan Machang",
+    "cd": "Kelantan",
+    "lat": 5.76335,
+    "lon": 102.21514
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kota Bharu",
+    "ppvc": "Dewan Kebudayaan Dan Kesenian Kelantan",
+    "cd": "Kelantan",
+    "lat": 6.14394,
+    "lon": 102.25245
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kota Bharu",
+    "ppvc": "Dewan Yayasan Kemiskinan Kelantan",
+    "cd": "Kelantan",
+    "lat": 5.99958,
+    "lon": 102.28966
+  },
+  {
+    "state": "Kelantan",
+    "district": "Pasir Mas",
+    "ppvc": "Dewan Apam Putra Lubok Jong",
+    "cd": "Kelantan",
+    "lat": 6.0073,
+    "lon": 102.0973
+  },
+  {
+    "state": "Kelantan",
+    "district": "Pasir Mas",
+    "ppvc": "Dewan Bandar Pasir Mas",
+    "cd": "Kelantan",
+    "lat": 6.0436,
+    "lon": 102.14511
+  },
+  {
+    "state": "Kelantan",
+    "district": "Pasir Puteh",
+    "ppvc": "Dewan APMM",
+    "cd": "Kelantan",
+    "lat": 5.8884,
+    "lon": 102.4705
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tanah Merah",
+    "ppvc": "Dewan Felda Kemahang 1",
+    "cd": "Kelantan",
+    "lat": 5.8528,
+    "lon": 102.00661
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tanah Merah",
+    "ppvc": "Dewan IKBN",
+    "cd": "Kelantan",
+    "lat": 3.46877,
+    "lon": 103.09844
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tumpat",
+    "ppvc": "Dewan Kopeladar",
+    "cd": "Kelantan",
+    "lat": 6.01475,
+    "lon": 102.20743
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tumpat",
+    "ppvc": "Dewan Putra SBJ",
+    "cd": "Kelantan",
+    "lat": 6.11529,
+    "lon": 102.21153
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tumpat",
+    "ppvc": "Dewan Bunga Raya Pantai Seri Tujuh",
+    "cd": "Kelantan",
+    "lat": 6.21684,
+    "lon": 102.12717
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tumpat",
+    "ppvc": "Dewan Sri Renjuna",
+    "cd": "Kelantan",
+    "lat": 6.19874,
+    "lon": 102.17071
+  },
+  {
+    "state": "Kelantan",
+    "district": "Gua Musang",
+    "ppvc": "Dewan Orang Ramai Jerek",
+    "cd": "Kelantan",
+    "lat": 5.81125,
+    "lon": 101.98151
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kuala Krai",
+    "ppvc": "Dewan Taman Sri Guchil",
+    "cd": "Kelantan",
+    "lat": 5.54223,
+    "lon": 102.20544
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kuala Krai",
+    "ppvc": "Dewan Manik Urai",
+    "cd": "Kelantan",
+    "lat": 5.38799,
+    "lon": 102.23372
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kuala Krai",
+    "ppvc": "Dewan Serbaguna Dabong",
+    "cd": "Kelantan",
+    "lat": 5.37686,
+    "lon": 102.0098
+  },
+  {
+    "state": "Kelantan",
+    "district": "Jeli",
+    "ppvc": "Dewan Serbaguna UMK",
+    "cd": "Kelantan",
+    "lat": 5.74486,
+    "lon": 101.86483
+  },
+  {
+    "state": "Kelantan",
+    "district": "Jeli",
+    "ppvc": "Dewan Majlis Daerah Jeli",
+    "cd": "Kelantan",
+    "lat": 5.69693,
+    "lon": 101.84564
+  },
+  {
+    "state": "Kelantan",
+    "district": "Gua Musang",
+    "ppvc": "Hospital Gua Musang",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Jeli",
+    "ppvc": "Hospital Jeli",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kota Bharu",
+    "ppvc": "Hospital Raja Perempuan Zainab Ii",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Kuala Krai",
+    "ppvc": "Hospital Sultan Ismail Petra",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Machang",
+    "ppvc": "Hospital Machang",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Pasir Mas",
+    "ppvc": "Hospital Pasir Mas",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Pasir Puteh",
+    "ppvc": "Hospital Tengku Anis",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tanah Merah",
+    "ppvc": "Hospital Tanah Merah",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Kelantan",
+    "district": "Tumpat",
+    "ppvc": "Hospital Tumpat",
+    "cd": "Kelantan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Melaka",
+    "district": "Alor Gajah",
+    "ppvc": "Kompleks Sukan Masjid Tanah",
+    "cd": "Melaka",
+    "lat": 2.3512,
+    "lon": 102.1185
+  },
+  {
+    "state": "Melaka",
+    "district": "Alor Gajah",
+    "ppvc": "Dewan CREATE",
+    "cd": "Melaka",
+    "lat": 2.45369,
+    "lon": 102.20561
+  },
+  {
+    "state": "Melaka",
+    "district": "Jasin",
+    "ppvc": "Dewan MPJ Alamanda Jasin",
+    "cd": "Melaka",
+    "lat": 2.3161,
+    "lon": 102.4328
+  },
+  {
+    "state": "Melaka",
+    "district": "Jasin",
+    "ppvc": "Dewan MPJ Hj. Muhammad Ithnin Merlimau",
+    "cd": "Melaka",
+    "lat": 2.18123,
+    "lon": 102.4266
+  },
+  {
+    "state": "Melaka",
+    "district": "Melaka Tengah",
+    "ppvc": "Dewan Tun Ali",
+    "cd": "Melaka",
+    "lat": 2.2308,
+    "lon": 102.3013
+  },
+  {
+    "state": "Melaka",
+    "district": "Melaka Tengah",
+    "ppvc": "Dewan Hang Tuah",
+    "cd": "Melaka",
+    "lat": 2.20141,
+    "lon": 102.24791
+  },
+  {
+    "state": "Melaka",
+    "district": "Melaka Tengah",
+    "ppvc": "Dewan MBMB Taman Bertam Jaya",
+    "cd": "Melaka",
+    "lat": 2.27879,
+    "lon": 102.21457
+  },
+  {
+    "state": "Melaka",
+    "district": "Alor Gajah",
+    "ppvc": "Hospital Alor Gajah",
+    "cd": "Melaka",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Melaka",
+    "district": "Alor Gajah",
+    "ppvc": "Hospital Jasin",
+    "cd": "Melaka",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Melaka",
+    "district": "Melaka Tengah",
+    "ppvc": "Hospital Melaka",
+    "cd": "Melaka",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "AMC Medical Clinic",
+    "cd": "negerisembilan",
+    "lat": 2.69262,
+    "lon": 101.90478
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Klinik Icon Seremban 2",
+    "cd": "negerisembilan",
+    "lat": 2.68529,
+    "lon": 101.90669
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jelebu",
+    "ppvc": "Dewan D'Sury",
+    "cd": "negerisembilan",
+    "lat": 2.96743,
+    "lon": 102.13168
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Dewan Dato Bahaman",
+    "cd": "negerisembilan",
+    "lat": 2.74074,
+    "lon": 102.24447
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Port Dickson",
+    "ppvc": "Dewan Kompleks Belia Dan Sukan Teluk Kemang",
+    "cd": "negerisembilan",
+    "lat": 2.4498,
+    "lon": 101.8588
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Rembau",
+    "ppvc": "Dewan Seri Rembau",
+    "cd": "negerisembilan",
+    "lat": 2.59179,
+    "lon": 102.09914
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Dewan Majlis Bandaraya Seremban",
+    "cd": "negerisembilan",
+    "lat": 2.7052,
+    "lon": 101.9601
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Dewan Org Ramai Sikamat",
+    "cd": "negerisembilan",
+    "lat": 2.74441,
+    "lon": 101.96081
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Tampin",
+    "ppvc": "Dewan Perdana Tampin",
+    "cd": "negerisembilan",
+    "lat": 2.47061,
+    "lon": 102.2263
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jempol",
+    "ppvc": "Dewan Pejabat Daerah Jempol",
+    "cd": "negerisembilan",
+    "lat": 2.8966,
+    "lon": 102.4055
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Tampin",
+    "ppvc": "Klinik Kesihatan Jelai",
+    "cd": "negerisembilan",
+    "lat": 2.646018774,
+    "lon": 102.4893502
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Tampin",
+    "ppvc": "Klinik Kesihatan Gemencheh",
+    "cd": "negerisembilan",
+    "lat": 2.532954081,
+    "lon": 102.4005382
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Tampin",
+    "ppvc": "Klinik Kesihatan Gemas",
+    "cd": "negerisembilan",
+    "lat": 2.584255429,
+    "lon": 102.6049176
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Klinik Kesihatan Seremban 2",
+    "cd": "negerisembilan",
+    "lat": 2.684827803,
+    "lon": 101.9166764
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Klinik Kesihatan Senawang",
+    "cd": "negerisembilan",
+    "lat": 2.692351203,
+    "lon": 101.9889164
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Klinik Kesihatan Rantau",
+    "cd": "negerisembilan",
+    "lat": 2.600662879,
+    "lon": 101.9629342
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Klinik Kesihatan Nilai",
+    "cd": "negerisembilan",
+    "lat": 2.80361001,
+    "lon": 101.8001194
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Klinik Kesihatan Mantin",
+    "cd": "negerisembilan",
+    "lat": 2.825088447,
+    "lon": 101.89376
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Klinik Kesihatan Ampangan",
+    "cd": "negerisembilan",
+    "lat": 2.723785712,
+    "lon": 101.9881238
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Rembau",
+    "ppvc": "Klinik Kesihatan Rembau",
+    "cd": "negerisembilan",
+    "lat": 2.585847856,
+    "lon": 102.0937013
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Rembau",
+    "ppvc": "Klinik Kesihatan Pedas",
+    "cd": "negerisembilan",
+    "lat": 2.632753582,
+    "lon": 102.0671015
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Rembau",
+    "ppvc": "Klinik Kesihatan Astana Raja",
+    "cd": "negerisembilan",
+    "lat": 2.508257129,
+    "lon": 102.1202293
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Port Dickson",
+    "ppvc": "Klinik Kesihatan Lukut",
+    "cd": "negerisembilan",
+    "lat": 2.585452297,
+    "lon": 101.8662832
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Port Dickson",
+    "ppvc": "Klinik Kesihatan Port Dickson",
+    "cd": "negerisembilan",
+    "lat": 2.528309995,
+    "lon": 101.7922007
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Port Dickson",
+    "ppvc": "Klinik Kesihatan Pasir Panjang",
+    "cd": "negerisembilan",
+    "lat": 2.429142784,
+    "lon": 101.9378173
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Port Dickson",
+    "ppvc": "Klinik Kesihatan Bukit Pelandok",
+    "cd": "negerisembilan",
+    "lat": 2.637353669,
+    "lon": 101.7622413
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Senaling",
+    "cd": "negerisembilan",
+    "lat": 2.706008884,
+    "lon": 102.2544611
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Terachi",
+    "cd": "negerisembilan",
+    "lat": 2.741806444,
+    "lon": 102.1356437
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Seri Menanti",
+    "cd": "negerisembilan",
+    "lat": 2.702278673,
+    "lon": 102.1646994
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Padang Lebar",
+    "cd": "negerisembilan",
+    "lat": 2.859404304,
+    "lon": 102.2716115
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Kuala Pilah",
+    "cd": "negerisembilan",
+    "lat": 2.701325631,
+    "lon": 102.2408803
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Juasseh",
+    "cd": "negerisembilan",
+    "lat": 2.79458057,
+    "lon": 102.3064786
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Johol",
+    "cd": "negerisembilan",
+    "lat": 2.609393721,
+    "lon": 102.2689065
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Klinik Kesihatan Gunung Pasir",
+    "cd": "negerisembilan",
+    "lat": 2.668274622,
+    "lon": 102.1464204
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jempol",
+    "ppvc": "Klinik Kesihatan Palong 9, 10, 11",
+    "cd": "negerisembilan",
+    "lat": 2.784722913,
+    "lon": 102.581397
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jempol",
+    "ppvc": "Klinik Kesihatan Palong 4, 5, 6",
+    "cd": "negerisembilan",
+    "lat": 2.74171261,
+    "lon": 102.6477616
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jempol",
+    "ppvc": "Klinik Kesihatan Lui Muda",
+    "cd": "negerisembilan",
+    "lat": 3.026170703,
+    "lon": 102.369397
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jempol",
+    "ppvc": "Klinik Kesihatan Bahau",
+    "cd": "negerisembilan",
+    "lat": 2.808915437,
+    "lon": 102.3604267
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jelebu",
+    "ppvc": "Klinik Kesihatan Chennah",
+    "cd": "negerisembilan",
+    "lat": 3.091879266,
+    "lon": 102.0737296
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jelebu",
+    "ppvc": "Klinik Kesihatan Pertang",
+    "cd": "negerisembilan",
+    "lat": 2.955727055,
+    "lon": 102.2251225
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jelebu",
+    "ppvc": "Hospital Jelebu",
+    "cd": "negerisembilan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Jempol",
+    "ppvc": "Hospital Jempol",
+    "cd": "negerisembilan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Kuala Pilah",
+    "ppvc": "Hospital Tuanku Ampuan Najihah",
+    "cd": "negerisembilan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Port Dickson",
+    "ppvc": "Hospital Port Dickson",
+    "cd": "negerisembilan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Rembau",
+    "ppvc": "Hospital Rembau",
+    "cd": "negerisembilan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Seremban",
+    "ppvc": "Hospital Tuanku Ja'Afar",
+    "cd": "negerisembilan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Negeri Sembilan",
+    "district": "Tampin",
+    "ppvc": "Hospital Tampin",
+    "cd": "negerisembilan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Bentong",
+    "ppvc": "Hospital Bentong",
+    "cd": "Pahang",
+    "lat": 3.52623,
+    "lon": 101.90576
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Hospital Tengku Ampuan Afzan",
+    "cd": "Pahang",
+    "lat": 3.80101,
+    "lon": 103.32148
+  },
+  {
+    "state": "Pahang",
+    "district": "Lipis",
+    "ppvc": "Hospital Lipis",
+    "cd": "Pahang",
+    "lat": 4.18254,
+    "lon": 102.0552
+  },
+  {
+    "state": "Pahang",
+    "district": "Pekan",
+    "ppvc": "Hospital Pekan",
+    "cd": "Pahang",
+    "lat": 3.50185,
+    "lon": 103.3783
+  },
+  {
+    "state": "Pahang",
+    "district": "Temerloh",
+    "ppvc": "Hospital Sultan Ahmad Shah",
+    "cd": "Pahang",
+    "lat": 3.45353,
+    "lon": 102.45321
+  },
+  {
+    "state": "Pahang",
+    "district": "Jerantut",
+    "ppvc": "Klinik Kesihatan Damak",
+    "cd": "Pahang",
+    "lat": 3.9554716,
+    "lon": 102.2167773
+  },
+  {
+    "state": "Pahang",
+    "district": "Jerantut",
+    "ppvc": "Klinik Kesihatan Felda Lepar Utara 4",
+    "cd": "Pahang",
+    "lat": 3.9094054,
+    "lon": 102.8075557
+  },
+  {
+    "state": "Pahang",
+    "district": "Jerantut",
+    "ppvc": "Klinik Kesihatan Sungai Tekam Utara",
+    "cd": "Pahang",
+    "lat": 3.89039,
+    "lon": 102.5976437
+  },
+  {
+    "state": "Pahang",
+    "district": "Jerantut",
+    "ppvc": "Klinik Kesihatan Jerantut Feri",
+    "cd": "Pahang",
+    "lat": 3.9788347,
+    "lon": 102.5292537
+  },
+  {
+    "state": "Pahang",
+    "district": "Jerantut",
+    "ppvc": "Klinik Kesihatan Padang Piol",
+    "cd": "Pahang",
+    "lat": 4.0338188,
+    "lon": 102.3837154
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Balok",
+    "cd": "Pahang",
+    "lat": 3.9426653,
+    "lon": 103.4113238
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Beserah",
+    "cd": "Pahang",
+    "lat": 3.8502385,
+    "lon": 103.3630454
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Bukit Goh (Felda)",
+    "cd": "Pahang",
+    "lat": 3.9134005,
+    "lon": 103.2577495
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Gambang",
+    "cd": "Pahang",
+    "lat": 3.7151978,
+    "lon": 103.137399
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Jaya Gading",
+    "cd": "Pahang",
+    "lat": 3.7536438,
+    "lon": 103.2046437
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Sungai Lembing",
+    "cd": "Pahang",
+    "lat": 3.9255046,
+    "lon": 103.0730535
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Permatang Badak",
+    "cd": "Pahang",
+    "lat": 3.7917192,
+    "lon": 103.2679291
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Sungai Ular",
+    "cd": "Pahang",
+    "lat": 4.0451836,
+    "lon": 103.3946806
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Kurnia",
+    "cd": "Pahang",
+    "lat": 3.7800225,
+    "lon": 103.2863086
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Paya Besar",
+    "cd": "Pahang",
+    "lat": 3.7899042,
+    "lon": 103.241885
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Klinik Kesihatan Indera Mahkota",
+    "cd": "Pahang",
+    "lat": 3.825132,
+    "lon": 103.2842324
+  },
+  {
+    "state": "Pahang",
+    "district": "Lipis",
+    "ppvc": "Klinik Kesihatan Merapoh",
+    "cd": "Pahang",
+    "lat": 4.693617,
+    "lon": 102.0015725
+  },
+  {
+    "state": "Pahang",
+    "district": "Maran",
+    "ppvc": "Klinik Kesihatan Chenor",
+    "cd": "Pahang",
+    "lat": 3.4863215,
+    "lon": 102.5579904
+  },
+  {
+    "state": "Pahang",
+    "district": "Maran",
+    "ppvc": "Klinik Kesihatan Jengka 22",
+    "cd": "Pahang",
+    "lat": 3.71966,
+    "lon": 102.4967754
+  },
+  {
+    "state": "Pahang",
+    "district": "Maran",
+    "ppvc": "Klinik Kesihatan Pekan Awah",
+    "cd": "Pahang",
+    "lat": 3.5072604,
+    "lon": 102.5476386
+  },
+  {
+    "state": "Pahang",
+    "district": "Maran",
+    "ppvc": "Klinik Kesihatan Sri Jaya",
+    "cd": "Pahang",
+    "lat": 3.685484,
+    "lon": 102.9507728
+  },
+  {
+    "state": "Pahang",
+    "district": "Bentong",
+    "ppvc": "Dewan Majlis Perbandaran Bentong",
+    "cd": "Pahang",
+    "lat": 3.52019,
+    "lon": 101.91348
+  },
+  {
+    "state": "Pahang",
+    "district": "Cameron Highlands",
+    "ppvc": "Dewan Puncak Arabella",
+    "cd": "Pahang",
+    "lat": 4.46414,
+    "lon": 101.38481
+  },
+  {
+    "state": "Pahang",
+    "district": "Jerantut",
+    "ppvc": "Dewan ADTEC",
+    "cd": "Pahang",
+    "lat": 3.92767,
+    "lon": 102.46066
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Wisma Belia",
+    "cd": "Pahang",
+    "lat": 3.82478,
+    "lon": 103.28139
+  },
+  {
+    "state": "Pahang",
+    "district": "Lipis",
+    "ppvc": "Dewan Jubli Perak",
+    "cd": "Pahang",
+    "lat": 4.17896,
+    "lon": 102.05268
+  },
+  {
+    "state": "Pahang",
+    "district": "Lipis",
+    "ppvc": "Dewan Orang Ramai Kampung Mela",
+    "cd": "Pahang",
+    "lat": 4.07486,
+    "lon": 102.27072
+  },
+  {
+    "state": "Pahang",
+    "district": "Lipis",
+    "ppvc": "Dewan Serbaguna Padang Tengku",
+    "cd": "Pahang",
+    "lat": 4.23509,
+    "lon": 101.99398
+  },
+  {
+    "state": "Pahang",
+    "district": "Pekan",
+    "ppvc": "Dewan Konvesyen Sultan Haji Ahmad Shah",
+    "cd": "Pahang",
+    "lat": 3.49064,
+    "lon": 103.39026
+  },
+  {
+    "state": "Pahang",
+    "district": "Raub",
+    "ppvc": "Dewan Jubli Perak Raub",
+    "cd": "Pahang",
+    "lat": 3.7937,
+    "lon": 101.85467
+  },
+  {
+    "state": "Pahang",
+    "district": "Temerloh",
+    "ppvc": "Dewan Tun Razak",
+    "cd": "Pahang",
+    "lat": 3.44946,
+    "lon": 102.41901
+  },
+  {
+    "state": "Pahang",
+    "district": "Temerloh",
+    "ppvc": "Dewan Mpt Dato Bahaman Lanchang",
+    "cd": "Pahang",
+    "lat": 3.45093,
+    "lon": 102.4188
+  },
+  {
+    "state": "Pahang",
+    "district": "Temerloh",
+    "ppvc": "Dewan Mpt Dato Zaharuddin Peragap",
+    "cd": "Pahang",
+    "lat": 3.45093,
+    "lon": 102.4188
+  },
+  {
+    "state": "Pahang",
+    "district": "Rompin",
+    "ppvc": "Dewan Jubli Perak Sultan Ahmad Shah, Kuala Rompin",
+    "cd": "Pahang",
+    "lat": 2.79989,
+    "lon": 103.47301
+  },
+  {
+    "state": "Pahang",
+    "district": "Maran",
+    "ppvc": "Stadium Tun Abdul Razak",
+    "cd": "Pahang",
+    "lat": 3.77488,
+    "lon": 102.54695
+  },
+  {
+    "state": "Pahang",
+    "district": "Maran",
+    "ppvc": "Dewan Jubli Perak",
+    "cd": "Pahang",
+    "lat": 3.77488,
+    "lon": 102.54695
+  },
+  {
+    "state": "Pahang",
+    "district": "Bera",
+    "ppvc": "Dewan Konvensyen Majlis Daerah Bera",
+    "cd": "Pahang",
+    "lat": 3.27279,
+    "lon": 102.45339
+  },
+  {
+    "state": "Pahang",
+    "district": "Bentong",
+    "ppvc": "Hospital Bentong",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Cameron Highlands",
+    "ppvc": "Hospital Sultanah Hajjah Kalsom",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Jerantut",
+    "ppvc": "Hospital Jerantut",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Kuantan",
+    "ppvc": "Hospital Tengku Ampuan Afzan",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Lipis",
+    "ppvc": "Hospital Kuala Lipis",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Maran",
+    "ppvc": "Hospital Jengka",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Pekan",
+    "ppvc": "Hospital Pekan",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Raub",
+    "ppvc": "Hospital Raub",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Rompin",
+    "ppvc": "Hospital Muadzam Shah",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Rompin",
+    "ppvc": "Hospital Rompin",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pahang",
+    "district": "Temerloh",
+    "ppvc": "Hospital Sultan Hj Ahmad Shah",
+    "cd": "Pahang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Batang Padang",
+    "ppvc": "Dewan Merdeka Tapah",
+    "cd": "Perak",
+    "lat": 4.1976,
+    "lon": 101.25646
+  },
+  {
+    "state": "Perak",
+    "district": "Manjung",
+    "ppvc": "Dewan Serbaguna Perumahan Penjawat Awam Lumut Kiri",
+    "cd": "Perak",
+    "lat": 4.2262,
+    "lon": 100.6733
+  },
+  {
+    "state": "Perak",
+    "district": "Kinta",
+    "ppvc": "Stadium Indera Mulia",
+    "cd": "Perak",
+    "lat": 4.6102,
+    "lon": 101.102
+  },
+  {
+    "state": "Perak",
+    "district": "Kinta",
+    "ppvc": "Dewan Bandaran Kinta, Batu Gajah",
+    "cd": "Perak",
+    "lat": 4.47572,
+    "lon": 101.03632
+  },
+  {
+    "state": "Perak",
+    "district": "Kerian",
+    "ppvc": "Dewan Kerian Permai",
+    "cd": "Perak",
+    "lat": 5.11764,
+    "lon": 100.48183
+  },
+  {
+    "state": "Perak",
+    "district": "Kuala Kangsar",
+    "ppvc": "Dewan Millenium Lubok Merbau",
+    "cd": "Perak",
+    "lat": 4.78544,
+    "lon": 100.89805
+  },
+  {
+    "state": "Perak",
+    "district": "Larut Dan Matang",
+    "ppvc": "Dewan Besar ADTEC",
+    "cd": "Perak",
+    "lat": 4.8538,
+    "lon": 100.7436
+  },
+  {
+    "state": "Perak",
+    "district": "Hilir Perak",
+    "ppvc": "Dewan Bandaran Teluk Intan",
+    "cd": "Perak",
+    "lat": 4.02295,
+    "lon": 101.02473
+  },
+  {
+    "state": "Perak",
+    "district": "Hulu Perak",
+    "ppvc": "Dewan Serbaguna Gerik",
+    "cd": "Perak",
+    "lat": 5.42771,
+    "lon": 101.12482
+  },
+  {
+    "state": "Perak",
+    "district": "Perak Tengah",
+    "ppvc": "Dewan Serbaguna Seri Iskandar",
+    "cd": "Perak",
+    "lat": 4.36547,
+    "lon": 100.95566
+  },
+  {
+    "state": "Perak",
+    "district": "Kampar",
+    "ppvc": "Dewan Bandaran Kampar",
+    "cd": "Perak",
+    "lat": 4.48717,
+    "lon": 101.15391
+  },
+  {
+    "state": "Perak",
+    "district": "Muallim",
+    "ppvc": "Dewan Tan Sri Ghazali Jawi",
+    "cd": "Perak",
+    "lat": 3.83739,
+    "lon": 101.39775
+  },
+  {
+    "state": "Perak",
+    "district": "Bagan Datuk",
+    "ppvc": "Dewan Dato' Mohamed Jamrah, Sg Sumun",
+    "cd": "Perak",
+    "lat": 3.88999,
+    "lon": 100.85296
+  },
+  {
+    "state": "Perak",
+    "district": "Muallim",
+    "ppvc": "Hospital Slim River",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Batang Padang",
+    "ppvc": "Hospital Tapah",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Hilir Perak",
+    "ppvc": "Hospital Teluk Intan",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Hulu Perak",
+    "ppvc": "Hospital Gerik",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Kerian",
+    "ppvc": "Hospital Parit Buntar",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Kinta",
+    "ppvc": "Hospital  Raja Permaisuri Bainun",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Kinta",
+    "ppvc": "Hospital Batu Gajah",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Kinta",
+    "ppvc": "Hospital Bahagia Ulu Kinta",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Kuala Kangsar",
+    "ppvc": "Hospital Kuala Kangsar",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Larut dan Matang",
+    "ppvc": "Hospital Selama",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Larut dan Matang",
+    "ppvc": "Hospital Taiping",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Manjung",
+    "ppvc": "Hospital Seri Manjung",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Perak Tengah",
+    "ppvc": "Hospital Changkat Melintang",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perak",
+    "district": "Kampar",
+    "ppvc": "Hospital Kampar",
+    "cd": "Perak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Perlis",
+    "district": "Perlis",
+    "ppvc": "Dewan 2020",
+    "cd": "Perlis",
+    "lat": 6.4148,
+    "lon": 100.1928
+  },
+  {
+    "state": "Perlis",
+    "district": "Perlis",
+    "ppvc": "Hospital Tuanku Fauziah",
+    "cd": "Perlis",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Seberang Perai Tengah",
+    "ppvc": "Seberang Perai Arena Convention Centre",
+    "cd": "penang",
+    "lat": 5.387,
+    "lon": 100.4015
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Seberang Perai Utara",
+    "ppvc": "Dewan Milenium Kepala Batas",
+    "cd": "penang",
+    "lat": 5.5156,
+    "lon": 100.4382
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Seberang Perai Selatan",
+    "ppvc": "Dewan Serbaguna Jawi",
+    "cd": "penang",
+    "lat": 5.1991,
+    "lon": 100.4927
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Timur Laut",
+    "ppvc": "Kompleks Masyarakat Penyayang",
+    "cd": "penang",
+    "lat": 5.4183,
+    "lon": 100.3049
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Barat Daya",
+    "ppvc": "Kompleks Sukan Balik Pulau",
+    "cd": "penang",
+    "lat": 5.3387,
+    "lon": 100.2137
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Barat Daya",
+    "ppvc": "Hospital Balik Pulau",
+    "cd": "penang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Seberang Perai Selatan",
+    "ppvc": "Hospital Sungai Bakap",
+    "cd": "penang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Seberang Perai Tengah",
+    "ppvc": "Hospital Bukit Mertajam",
+    "cd": "penang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Seberang Perai Tengah",
+    "ppvc": "Hospital Seberang Jaya",
+    "cd": "penang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Seberang Perai Utara",
+    "ppvc": "Hospital Kepala Batas",
+    "cd": "penang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Pulau Pinang",
+    "district": "Timur Laut",
+    "ppvc": "Hospital Pulau Pinang",
+    "cd": "penang",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kota Kinabalu",
+    "ppvc": "Dewan Pusat Pentadbiran Kerajaan Persekutuan",
+    "cd": "Sabah",
+    "lat": 6.02873,
+    "lon": 116.11852
+  },
+  {
+    "state": "Sabah",
+    "district": "Tawau",
+    "ppvc": "Dewan Masyarakat Tawau",
+    "cd": "Sabah",
+    "lat": 4.2462,
+    "lon": 117.8841
+  },
+  {
+    "state": "Sabah",
+    "district": "Sandakan",
+    "ppvc": "Dewan Masyarakat Sandakan",
+    "cd": "Sabah",
+    "lat": 5.8375,
+    "lon": 118.1119
+  },
+  {
+    "state": "Sabah",
+    "district": "Tuaran",
+    "ppvc": "Dewan Sri Sulaman",
+    "cd": "Sabah",
+    "lat": 6.1756,
+    "lon": 116.23242
+  },
+  {
+    "state": "Sabah",
+    "district": "Penampang",
+    "ppvc": "Dewan Kebudayaan Penampang",
+    "cd": "Sabah",
+    "lat": 5.916,
+    "lon": 116.1107
+  },
+  {
+    "state": "Sabah",
+    "district": "Papar",
+    "ppvc": "Dewan Masyarakat Papar",
+    "cd": "Sabah",
+    "lat": 5.83697,
+    "lon": 116.04325
+  },
+  {
+    "state": "Sabah",
+    "district": "Beaufort",
+    "ppvc": "Hospital Beaufort",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Beluran",
+    "ppvc": "Hospital Beluran",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Keningau",
+    "ppvc": "Hospital Keningau",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kinabatangan",
+    "ppvc": "Hospital Kinabatangan",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kota Belud",
+    "ppvc": "Hospital Kota Belud",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kota Kinabalu",
+    "ppvc": "Hospital Queen Elizabeth",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kota Kinabalu",
+    "ppvc": "Hospital Wanita Dan Kanak - Kanak, Likas",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kota Kinabalu",
+    "ppvc": "Hospital Mesra Bukit Padang",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kota Kinabalu",
+    "ppvc": "Hospital Queen Elizabeth Ii",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kota Marudu",
+    "ppvc": "Hospital Kota Marudu",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kuala Penyu",
+    "ppvc": "Hospital Kuala Penyu",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kudat",
+    "ppvc": "Hospital Kudat",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Kunak",
+    "ppvc": "Hospital Kunak",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Lahad Datu",
+    "ppvc": "Hospital Lahad Datu",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Papar",
+    "ppvc": "Hospital Papar",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Pitas",
+    "ppvc": "Hospital Pitas",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Ranau",
+    "ppvc": "Hospital Ranau",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Sandakan",
+    "ppvc": "Hospital Duchess Of Kent",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Sipitang",
+    "ppvc": "Hospital Sipitang",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Tambunan",
+    "ppvc": "Hospital Tambunan",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Tawau",
+    "ppvc": "Hospital Tawau",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Tenom",
+    "ppvc": "Hospital Tenom",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sabah",
+    "district": "Tuaran",
+    "ppvc": "Hospital Tuaran",
+    "cd": "Sabah",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kuching",
+    "ppvc": "Stadium Perpaduan Kuching",
+    "cd": "Sarawak",
+    "lat": 1.5877,
+    "lon": 110.3555
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kuching",
+    "ppvc": "Christian Ecumenical Worship Centre",
+    "cd": "Sarawak",
+    "lat": 1.52202,
+    "lon": 110.3442
+  },
+  {
+    "state": "Sarawak",
+    "district": "Bau",
+    "ppvc": "Dewan Perdana Akademi Bomba Bau",
+    "cd": "Sarawak",
+    "lat": 1.40579,
+    "lon": 110.13424
+  },
+  {
+    "state": "Sarawak",
+    "district": "Lundu",
+    "ppvc": "Dewan Suarah Lundu",
+    "cd": "Sarawak",
+    "lat": 1.67903,
+    "lon": 109.85224
+  },
+  {
+    "state": "Sarawak",
+    "district": "Samarahan",
+    "ppvc": "Dewan Suarah Kota Samarahan",
+    "cd": "Sarawak",
+    "lat": 1.463,
+    "lon": 110.4987
+  },
+  {
+    "state": "Sarawak",
+    "district": "Serian",
+    "ppvc": "Dewan Masyarakat Serian",
+    "cd": "Sarawak",
+    "lat": 1.1656,
+    "lon": 110.5677
+  },
+  {
+    "state": "Sarawak",
+    "district": "Serian",
+    "ppvc": "Dewan Masyarakat Tebedu",
+    "cd": "Sarawak",
+    "lat": 1.01557,
+    "lon": 110.35524
+  },
+  {
+    "state": "Sarawak",
+    "district": "Serian",
+    "ppvc": "Dewan Masyarakat Siburan",
+    "cd": "Sarawak",
+    "lat": 1.28896,
+    "lon": 110.40441
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sri Aman",
+    "ppvc": "Dewan Suarah Sri Aman",
+    "cd": "Sarawak",
+    "lat": 1.2336,
+    "lon": 111.4637
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sri Aman",
+    "ppvc": "Dewan Kampung Gua",
+    "cd": "Sarawak",
+    "lat": 1.07394,
+    "lon": 111.29268
+  },
+  {
+    "state": "Sarawak",
+    "district": "Lubok Antu",
+    "ppvc": "Dewan Kompleks Sukan Majlis Daerah",
+    "cd": "Sarawak",
+    "lat": 1.04336,
+    "lon": 111.8536
+  },
+  {
+    "state": "Sarawak",
+    "district": "Lubok Antu",
+    "ppvc": "Dewan Serbaguna Engkilili",
+    "cd": "Sarawak",
+    "lat": 1.13618,
+    "lon": 111.66742
+  },
+  {
+    "state": "Sarawak",
+    "district": "Betong",
+    "ppvc": "Dewan Panglima Rentap",
+    "cd": "Sarawak",
+    "lat": 1.4127,
+    "lon": 111.5309
+  },
+  {
+    "state": "Sarawak",
+    "district": "Betong",
+    "ppvc": "Dewan Masyarakat Kalok, Pusa",
+    "cd": "Sarawak",
+    "lat": 1.62073,
+    "lon": 111.32355
+  },
+  {
+    "state": "Sarawak",
+    "district": "Saratok",
+    "ppvc": "Dewan Sri Krian",
+    "cd": "Sarawak",
+    "lat": 1.73893,
+    "lon": 111.33682
+  },
+  {
+    "state": "Sarawak",
+    "district": "Saratok",
+    "ppvc": "Dewan Balai Polis Kabong",
+    "cd": "Sarawak",
+    "lat": 1.92124,
+    "lon": 111.20718
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sarikei",
+    "ppvc": "Dewan Suarah Sarikei",
+    "cd": "Sarawak",
+    "lat": 2.1321,
+    "lon": 111.5222
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sarikei",
+    "ppvc": "Dewan Masyarakat Meradong",
+    "cd": "Sarawak",
+    "lat": 2.16648,
+    "lon": 111.63654
+  },
+  {
+    "state": "Sarawak",
+    "district": "Daro",
+    "ppvc": "Dewan Masyarakat Daro",
+    "cd": "Sarawak",
+    "lat": 2.51408,
+    "lon": 111.42906
+  },
+  {
+    "state": "Sarawak",
+    "district": "Julau",
+    "ppvc": "Dewan Masyarakat Julau",
+    "cd": "Sarawak",
+    "lat": 2.01851,
+    "lon": 111.91336
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sibu",
+    "ppvc": "Indoor Stadium",
+    "cd": "Sarawak",
+    "lat": 2.3363,
+    "lon": 111.8455
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sibu",
+    "ppvc": "Dewan Suarah Sibu",
+    "cd": "Sarawak",
+    "lat": 2.3108,
+    "lon": 111.8316
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sibu",
+    "ppvc": "Dewan Serbaguna Sibu Jaya",
+    "cd": "Sarawak",
+    "lat": 2.24517,
+    "lon": 111.95911
+  },
+  {
+    "state": "Sarawak",
+    "district": "Dalat",
+    "ppvc": "Stadium Perpaduan Dalat",
+    "cd": "Sarawak",
+    "lat": 2.74314,
+    "lon": 111.94503
+  },
+  {
+    "state": "Sarawak",
+    "district": "Mukah",
+    "ppvc": "Dewan Suarah Mukah",
+    "cd": "Sarawak",
+    "lat": 2.8988,
+    "lon": 112.092
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kanowit",
+    "ppvc": "Dewan Pejabat Daerah Kanowit",
+    "cd": "Sarawak",
+    "lat": 2.10129,
+    "lon": 112.15143
+  },
+  {
+    "state": "Sarawak",
+    "district": "Bintulu",
+    "ppvc": "Dewan Sri Kenyalang UPM",
+    "cd": "Sarawak",
+    "lat": 3.2074,
+    "lon": 113.09
+  },
+  {
+    "state": "Sarawak",
+    "district": "Bintulu",
+    "ppvc": "Auditorium BDA, Wisma Bintulu",
+    "cd": "Sarawak",
+    "lat": 3.21315,
+    "lon": 113.06177
+  },
+  {
+    "state": "Sarawak",
+    "district": "Tatau",
+    "ppvc": "Dewan Sukan Tatau",
+    "cd": "Sarawak",
+    "lat": 2.8809,
+    "lon": 112.85079
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kapit",
+    "ppvc": "Dewan Sri Balleh",
+    "cd": "Sarawak",
+    "lat": 2.0143,
+    "lon": 112.9494
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kapit",
+    "ppvc": "Multistorey Carpark Kapit",
+    "cd": "Sarawak",
+    "lat": 2.01667,
+    "lon": 112.94026
+  },
+  {
+    "state": "Sarawak",
+    "district": "Song",
+    "ppvc": "Rumah Rehat Song",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Belaga",
+    "ppvc": "Dewan Masyarakat Sungai Asap",
+    "cd": "Sarawak",
+    "lat": 3.03199,
+    "lon": 113.92273
+  },
+  {
+    "state": "Sarawak",
+    "district": "Miri",
+    "ppvc": "Dewan Eastwood Valley",
+    "cd": "Sarawak",
+    "lat": 4.3706,
+    "lon": 114.0172
+  },
+  {
+    "state": "Sarawak",
+    "district": "Miri",
+    "ppvc": "Dewan Dato Permysuri Permyjaya",
+    "cd": "Sarawak",
+    "lat": 4.45754,
+    "lon": 114.03709
+  },
+  {
+    "state": "Sarawak",
+    "district": "Miri",
+    "ppvc": "Dewan Masyarakat Sepupok Niah",
+    "cd": "Sarawak",
+    "lat": 3.80424,
+    "lon": 113.75171
+  },
+  {
+    "state": "Sarawak",
+    "district": "Marudi",
+    "ppvc": "Dewan Masyarakat Marudi",
+    "cd": "Sarawak",
+    "lat": 3.764,
+    "lon": 114.40678
+  },
+  {
+    "state": "Sarawak",
+    "district": "Limbang",
+    "ppvc": "Dewan Suarah Limbang",
+    "cd": "Sarawak",
+    "lat": 4.7595,
+    "lon": 115.0133
+  },
+  {
+    "state": "Sarawak",
+    "district": "Limbang",
+    "ppvc": "Dewan Persatuan Bisaya Limbang",
+    "cd": "Sarawak",
+    "lat": 4.77664,
+    "lon": 115.00352
+  },
+  {
+    "state": "Sarawak",
+    "district": "Lawas",
+    "ppvc": "Institut Latihan Islam Malaysia",
+    "cd": "Sarawak",
+    "lat": 4.8507,
+    "lon": 115.3774
+  },
+  {
+    "state": "Sarawak",
+    "district": "Lawas",
+    "ppvc": "Dewan Masyarakat Kpg Long Tuma",
+    "cd": "Sarawak",
+    "lat": 4.80295,
+    "lon": 115.40893
+  },
+  {
+    "state": "Sarawak",
+    "district": "Matu",
+    "ppvc": "Dewan Suarah Matu",
+    "cd": "Sarawak",
+    "lat": 2.13206,
+    "lon": 111.52224
+  },
+  {
+    "state": "Sarawak",
+    "district": "Asajaya",
+    "ppvc": "Kompleks Sukan Asajaya",
+    "cd": "Sarawak",
+    "lat": 1.54424,
+    "lon": 110.5934
+  },
+  {
+    "state": "Sarawak",
+    "district": "Asajaya",
+    "ppvc": "Dewan Komuniti Sadong Jaya",
+    "cd": "Sarawak",
+    "lat": 1.51732,
+    "lon": 110.72632
+  },
+  {
+    "state": "Sarawak",
+    "district": "Pakan",
+    "ppvc": "Dewan Masyarakat Pakan",
+    "cd": "Sarawak",
+    "lat": 2.16648,
+    "lon": 111.63654
+  },
+  {
+    "state": "Sarawak",
+    "district": "Selangau",
+    "ppvc": "Dewan Serbaguna Selangau",
+    "cd": "Sarawak",
+    "lat": 2.53176,
+    "lon": 112.32785
+  },
+  {
+    "state": "Sarawak",
+    "district": "Subis",
+    "ppvc": "Dewan Masyarakat Bekenu",
+    "cd": "Sarawak",
+    "lat": 4.05858,
+    "lon": 113.84638
+  },
+  {
+    "state": "Sarawak",
+    "district": "Telang Usan",
+    "ppvc": "Dewan Terbuka Long Lama",
+    "cd": "Sarawak",
+    "lat": 3.76408,
+    "lon": 114.40726
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sebauh",
+    "ppvc": "Balai Raya Sebauh",
+    "cd": "Sarawak",
+    "lat": 3.11774,
+    "lon": 113.26414
+  },
+  {
+    "state": "Sarawak",
+    "district": "Tanjung Manis",
+    "ppvc": "Dewan Masyarakat Belawai",
+    "cd": "Sarawak",
+    "lat": 2.23059,
+    "lon": 111.21591
+  },
+  {
+    "state": "Sarawak",
+    "district": "Bau",
+    "ppvc": "Hospital Bau",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Betong",
+    "ppvc": "Hospital Betong",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Bintulu",
+    "ppvc": "Hospital Bintulu",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Daro",
+    "ppvc": "Hospital Daro",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kanowit",
+    "ppvc": "Hospital Kanowit",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kapit",
+    "ppvc": "Hospital Kapit",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kuching",
+    "ppvc": "Hospital Umum Sarawak",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Kuching",
+    "ppvc": "Hospital Sentosa",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Lawas",
+    "ppvc": "Hospital Lawas",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Limbang",
+    "ppvc": "Hospital Limbang",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Lundu",
+    "ppvc": "Hospital Lundu",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Marudi",
+    "ppvc": "Hospital Marudi",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Miri",
+    "ppvc": "Hospital Miri",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Mukah",
+    "ppvc": "Hospital Mukah",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Samarahan",
+    "ppvc": "Pusat Jantung Sarawak",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Saratok",
+    "ppvc": "Hospital Saratok",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sarikei",
+    "ppvc": "Hospital Sarikei",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Serian",
+    "ppvc": "Hospital Serian",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sibu",
+    "ppvc": "Hospital Sibu",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Simunjan",
+    "ppvc": "Hospital Simunjan",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Sarawak",
+    "district": "Sri Aman",
+    "ppvc": "Hospital Sri Aman",
+    "cd": "Sarawak",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Petaling",
+    "ppvc": "Klinik Rakan Medik",
+    "cd": "Selangor",
+    "lat": 3.10585,
+    "lon": 101.6003
+  },
+  {
+    "state": "Selangor",
+    "district": "Sepang",
+    "ppvc": "Klinik Dr Nina",
+    "cd": "Selangor",
+    "lat": 2.81196,
+    "lon": 101.73756
+  },
+  {
+    "state": "Selangor",
+    "district": "Sepang",
+    "ppvc": "Klinik Hazra Medic",
+    "cd": "Selangor",
+    "lat": 2.92594,
+    "lon": 101.65907
+  },
+  {
+    "state": "Selangor",
+    "district": "Sepang",
+    "ppvc": "Orion Clinic",
+    "cd": "Selangor",
+    "lat": 2.92125,
+    "lon": 101.63614
+  },
+  {
+    "state": "Selangor",
+    "district": "Sepang",
+    "ppvc": "Klinik Masya",
+    "cd": "Selangor",
+    "lat": 2.78449,
+    "lon": 101.75103
+  },
+  {
+    "state": "Selangor",
+    "district": "Sepang",
+    "ppvc": "Poliklinik Medi Ihsan",
+    "cd": "Selangor",
+    "lat": 2.81945,
+    "lon": 101.68985
+  },
+  {
+    "state": "Selangor",
+    "district": "Gombak",
+    "ppvc": "Dewan Alwy, Jabatan Perhutanan Semenanjung Malaysia",
+    "cd": "Selangor",
+    "lat": 3.2421,
+    "lon": 101.6423
+  },
+  {
+    "state": "Selangor",
+    "district": "Klang",
+    "ppvc": "Dewan Kelab Kilat Pangsapuri TNB Kapar",
+    "cd": "Selangor",
+    "lat": 3.1282,
+    "lon": 101.3754
+  },
+  {
+    "state": "Selangor",
+    "district": "Klang",
+    "ppvc": "Dewan Sukan Pandamaran",
+    "cd": "Selangor",
+    "lat": 3.0173,
+    "lon": 101.4159
+  },
+  {
+    "state": "Selangor",
+    "district": "Kuala Langat",
+    "ppvc": "Kompleks Sukan Majlis Perbadanan Kuala Langat",
+    "cd": "Selangor",
+    "lat": 2.8038,
+    "lon": 101.5025
+  },
+  {
+    "state": "Selangor",
+    "district": "Kuala Selangor",
+    "ppvc": "Stadium Tertutup Kuala Selangor",
+    "cd": "Selangor",
+    "lat": 3.3191,
+    "lon": 101.2543
+  },
+  {
+    "state": "Selangor",
+    "district": "Petaling",
+    "ppvc": "Sunway Pyramid Convention Centre",
+    "cd": "Selangor",
+    "lat": 3.0724,
+    "lon": 101.6071
+  },
+  {
+    "state": "Selangor",
+    "district": "Sabak Bernam",
+    "ppvc": "Dewan Seri Bernam Sg Besar",
+    "cd": "Selangor",
+    "lat": 3.677,
+    "lon": 100.9917
+  },
+  {
+    "state": "Selangor",
+    "district": "Sepang",
+    "ppvc": "Dewan Serbaguna Bandar Baru Salak Tinggi",
+    "cd": "Selangor",
+    "lat": 2.8107,
+    "lon": 101.7381
+  },
+  {
+    "state": "Selangor",
+    "district": "Hulu Langat",
+    "ppvc": "Dewan Orang Ramai Kampung Ampang Indah",
+    "cd": "Selangor",
+    "lat": 3.1386,
+    "lon": 101.7841
+  },
+  {
+    "state": "Selangor",
+    "district": "Hulu Selangor",
+    "ppvc": "Dewan Semai Bakti Felda Soeharto",
+    "cd": "Selangor",
+    "lat": 3.6764,
+    "lon": 101.3935
+  },
+  {
+    "state": "Selangor",
+    "district": "Gombak",
+    "ppvc": "Hospital Selayang",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Gombak",
+    "ppvc": "Hospital Sungai Buluh",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Gombak",
+    "ppvc": "Hospital Orang Asli Gombak",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Hulu Langat",
+    "ppvc": "Hospital Kajang",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Hulu Langat",
+    "ppvc": "Hospital Ampang",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Hulu Selangor",
+    "ppvc": "Hospital Kuala Kubu Bharu",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Klang",
+    "ppvc": "Hospital Tengku Ampuan Rahimah",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Kuala Langat",
+    "ppvc": "Hospital Banting",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Kuala Selangor",
+    "ppvc": "Hospital Tanjung Karang",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Petaling",
+    "ppvc": "Hospital Shah Alam",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Sabak Bernam",
+    "ppvc": "Hospital Tengku Ampuan Jemaah",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Selangor",
+    "district": "Sepang",
+    "ppvc": "Hospital Serdang",
+    "cd": "Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Terengganu",
+    "district": "Besut",
+    "ppvc": "Dewan Gong Kemuntong",
+    "cd": "Terengganu",
+    "lat": 5.73802,
+    "lon": 102.50855
+  },
+  {
+    "state": "Terengganu",
+    "district": "Dungun",
+    "ppvc": "Dewan Aspirasi UiTM",
+    "cd": "Terengganu",
+    "lat": 4.70635,
+    "lon": 103.44215
+  },
+  {
+    "state": "Terengganu",
+    "district": "Kemaman",
+    "ppvc": "Dewan Dato' Seri Amar Diraja",
+    "cd": "Terengganu",
+    "lat": 4.22994,
+    "lon": 103.42605
+  },
+  {
+    "state": "Terengganu",
+    "district": "Kuala Terengganu",
+    "ppvc": "Pusat Sains dan Kreativiti",
+    "cd": "Terengganu",
+    "lat": 5.2699,
+    "lon": 103.1521
+  },
+  {
+    "state": "Terengganu",
+    "district": "Marang",
+    "ppvc": "Dewan Utama Majlis Daerah Marang",
+    "cd": "Terengganu",
+    "lat": 5.2097,
+    "lon": 103.2007
+  },
+  {
+    "state": "Terengganu",
+    "district": "Hulu Terengganu",
+    "ppvc": "Dewan MDHT Kuala Berang",
+    "cd": "Terengganu",
+    "lat": 5.0721,
+    "lon": 103.00892
+  },
+  {
+    "state": "Terengganu",
+    "district": "Setiu",
+    "ppvc": "Dewan Serbaguna Sg Tarom",
+    "cd": "Terengganu",
+    "lat": 5.5178,
+    "lon": 102.7644
+  },
+  {
+    "state": "Terengganu",
+    "district": "Kuala Nerus",
+    "ppvc": "Stadium Tertutup Gong Badak",
+    "cd": "Terengganu",
+    "lat": 5.36813,
+    "lon": 103.10298
+  },
+  {
+    "state": "Terengganu",
+    "district": "Besut",
+    "ppvc": "Hospital Besut",
+    "cd": "Terengganu",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Terengganu",
+    "district": "Dungun",
+    "ppvc": "Hospital Dungun",
+    "cd": "Terengganu",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Terengganu",
+    "district": "Hulu Terengganu",
+    "ppvc": "Hospital Hulu Terengganu",
+    "cd": "Terengganu",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Terengganu",
+    "district": "Kemaman",
+    "ppvc": "Hospital Kemaman",
+    "cd": "Terengganu",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Terengganu",
+    "district": "Kuala Terengganu",
+    "ppvc": "Hospital Sultanah Nur Zahirah",
+    "cd": "Terengganu",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "Terengganu",
+    "district": "Setiu",
+    "ppvc": "Hospital Setiu",
+    "cd": "Terengganu",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "district": "Kuala Lumpur",
+    "ppvc": "Dewan Komuniti Bandar Manjalara",
+    "cd": "wpkualalumpur",
+    "lat": 3.1938,
+    "lon": 101.6265
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "district": "Kuala Lumpur",
+    "ppvc": "Stadium Titiwangsa",
+    "cd": "wpkualalumpur",
+    "lat": 3.1757,
+    "lon": 101.7066
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "district": "Kuala Lumpur",
+    "ppvc": "Kompleks Komuniti Muhibbah",
+    "cd": "wpkualalumpur",
+    "lat": 3.0627,
+    "lon": 101.6597
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "district": "Kuala Lumpur",
+    "ppvc": "Kompleks Sukan Desa Tasik",
+    "cd": "wpkualalumpur",
+    "lat": 3.0715,
+    "lon": 101.714
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "district": "W.P. Kuala Lumpur",
+    "ppvc": "Hospital Kuala Lumpur",
+    "cd": "wpkualalumpur",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "W.P. Labuan",
+    "district": "Labuan",
+    "ppvc": "Dewan Serbaguna Perbadanan Labuan",
+    "cd": "labuan",
+    "lat": 5.3104,
+    "lon": 115.2332
+  },
+  {
+    "state": "W.P. Labuan",
+    "district": "Labuan",
+    "ppvc": "Dewan Kompleks Darul Kifayah MAIWP",
+    "cd": "labuan",
+    "lat": 5.28919,
+    "lon": 115.26465
+  },
+  {
+    "state": "W.P. Labuan",
+    "district": "W.P. Labuan",
+    "ppvc": "Hospital Labuan",
+    "cd": "labuan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "W.P. Putrajaya",
+    "district": "W.P. Putrajaya",
+    "ppvc": "Dewan Sri Seroja",
+    "cd": "wpputrajaya",
+    "lat": 2.9441,
+    "lon": 101.7243
+  },
+  {
+    "state": "W.P. Putrajaya",
+    "district": "W.P. Putrajaya",
+    "ppvc": "Hospital Putrajaya",
+    "cd": "wpputrajaya",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "state": "W.P. Putrajaya",
+    "district": "W.P. Putrajaya",
+    "ppvc": "Institut Kanser Negara",
+    "cd": "wpputrajaya",
+    "lat": "",
+    "lon": ""
+  }
+]
