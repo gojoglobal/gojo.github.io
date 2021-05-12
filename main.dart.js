@@ -59493,7 +59493,7 @@ $1:function(a){var s=null,r=t.hE,q=t.fQ
 return new T.p9(H.b([M.eM(s,new T.c0(C.qb,T.qK(H.b([L.dI("Review",s,s,s,A.hl(s,s,s,s,s,s,s,s,s,s,s,21,s,s,s,s,!0,s,s,s,s,s,s),s,s),C.oC,L.dI("Destination:",s,s,s,A.hl(s,s,s,s,s,s,s,s,s,s,s,14,s,s,s,s,!0,s,s,s,s,s,s),s,s),C.ts,L.dI("KK Bandar Penawar",s,s,s,A.hl(s,s,s,s,s,s,s,s,s,s,s,16,s,C.c7,s,s,!0,s,s,s,s,s,s),s,s),C.oC,L.dI("GOJO will pick you up on:",s,s,s,A.hl(s,s,s,s,s,s,s,s,s,s,s,14,s,s,s,s,!0,s,s,s,s,s,s),s,s),C.ts,L.dI("May 12th, 10:30 PM",s,s,s,A.hl(s,s,s,s,s,s,s,s,s,s,s,16,s,C.c7,s,s,!0,s,s,s,s,s,s),s,s),C.AD,T.lI(U.amp(L.dI("Next",s,s,s,s,s,s),new Y.a0Q(),A.a6g(s,s,new V.hw(C.zc,r),s,s,new V.hw(C.l,r),s,s,s,s,s,new V.hw(new X.cT(K.N0(8),C.t),t.tN),s,s,s,s)),44,s),C.AC],q),C.c5,C.h0),s),s,s,new S.fe(C.l,s,s,C.uP,s,s,C.aL),s,s,s,s)],q),s)},
 $S:358}
 Y.a0Q.prototype={
-$0:function(){window.location.href="gojosgp://transport?bookingType=later&destination=108.2226,16.072&promo=vaksin&delay=60"},
+$0:function(){window.location.href="gojosgp://transport?bookingType=later&destination=104.23373,1.55332&promo=vaksin"},
 $S:3}
 F.CH.prototype={
 O:function(a,b){return S.aaY(null,!0,new Y.rB(null),X.a7h(null,C.nA),"Flutter Demo")}}
