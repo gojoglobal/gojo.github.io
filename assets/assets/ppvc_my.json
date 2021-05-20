@@ -116,96 +116,96 @@
     "district": "Batu Pahat",
     "ppvc": "Hospital Sultanah Nora Ismail",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.8366328,
+    "lon": 102.9389711
   },
   {
     "state": "Johor",
     "district": "Johor Bahru",
     "ppvc": "Hospital Sultanah Aminah",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.4697437,
+    "lon": 103.7400448
   },
   {
     "state": "Johor",
     "district": "Johor Bahru",
     "ppvc": "Hospital Permai",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.5214902,
+    "lon": 103.7044122
   },
   {
     "state": "Johor",
     "district": "Johor Bahru",
     "ppvc": "Hospital Sultan Ismail Johor Bahru",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.5463325,
+    "lon": 103.7887
   },
   {
     "state": "Johor",
     "district": "Kluang",
     "ppvc": "Hospital Enche' Besar Hajjah Khalsom",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.0081238,
+    "lon": 103.3449005
   },
   {
     "state": "Johor",
     "district": "Kota Tinggi",
     "ppvc": "Hospital Kota Tinggi",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.7349832,
+    "lon": 103.8973084
   },
   {
     "state": "Johor",
     "district": "Mersing",
     "ppvc": "Hospital Mersing",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.429453,
+    "lon": 103.8432069
   },
   {
     "state": "Johor",
     "district": "Muar",
     "ppvc": "Hospital Pakar Sultanah Fatimah",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.0645854,
+    "lon": 102.5718985
   },
   {
     "state": "Johor",
     "district": "Pontian",
     "ppvc": "Hospital Pontian",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.4984596,
+    "lon": 103.3830184
   },
   {
     "state": "Johor",
     "district": "Segamat",
     "ppvc": "Hospital Segamat",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.4932875,
+    "lon": 102.8568638
   },
   {
     "state": "Johor",
     "district": "Kulai",
     "ppvc": "Hospital Temenggong Seri Maharaja Tun Ibrahim",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.6397458,
+    "lon": 103.6216625
   },
   {
     "state": "Johor",
     "district": "Tangkak",
     "ppvc": "Hospital Tangkak",
     "cd": "Johor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.2720635,
+    "lon": 102.5446305
   },
   {
     "state": "Kedah",
@@ -308,72 +308,72 @@
     "district": "Baling",
     "ppvc": "Hospital Baling",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.6777182,
+    "lon": 100.9236278
   },
   {
     "state": "Kedah",
     "district": "Kota Setar",
     "ppvc": "Hospital Sultanah Bahiyah",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.1485882,
+    "lon": 100.4041687
   },
   {
     "state": "Kedah",
     "district": "Sungai Petani",
     "ppvc": "Hospital Sultan Abdul Halim",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.6695817,
+    "lon": 100.5152259
   },
   {
     "state": "Kedah",
     "district": "Kubang Pasu",
     "ppvc": "Hospital Jitra",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.2787858,
+    "lon": 100.4168768
   },
   {
     "state": "Kedah",
     "district": "Kulim",
     "ppvc": "Hospital Kulim",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.3931314,
+    "lon": 100.5708476
   },
   {
     "state": "Kedah",
     "district": "Langkawi",
     "ppvc": "Hospital Langkawi",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.3247688,
+    "lon": 99.7962528
   },
   {
     "state": "Kedah",
     "district": "Padang Terap",
     "ppvc": "Hospital Kuala Nerang",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.25263,
+    "lon": 100.6075828
   },
   {
     "state": "Kedah",
     "district": "Sik",
     "ppvc": "Hospital Sik",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.8122196,
+    "lon": 100.7248
   },
   {
     "state": "Kedah",
     "district": "Yan",
     "ppvc": "Hospital Yan",
     "cd": "Kedah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.8210286,
+    "lon": 100.3821146
   },
   {
     "state": "Kelantan",
@@ -564,72 +564,72 @@
     "district": "Gua Musang",
     "ppvc": "Hospital Gua Musang",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.8509756,
+    "lon": 101.9410334
   },
   {
     "state": "Kelantan",
     "district": "Jeli",
     "ppvc": "Hospital Jeli",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.7012901,
+    "lon": 101.8421124
   },
   {
     "state": "Kelantan",
     "district": "Kota Bharu",
     "ppvc": "Hospital Raja Perempuan Zainab Ii",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.1252883,
+    "lon": 102.2435233
   },
   {
     "state": "Kelantan",
     "district": "Kuala Krai",
     "ppvc": "Hospital Sultan Ismail Petra",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.4973696,
+    "lon": 102.2223816
   },
   {
     "state": "Kelantan",
     "district": "Machang",
     "ppvc": "Hospital Machang",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.7631889,
+    "lon": 102.2236412
   },
   {
     "state": "Kelantan",
     "district": "Pasir Mas",
     "ppvc": "Hospital Pasir Mas",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.0139824,
+    "lon": 102.1167931
   },
   {
     "state": "Kelantan",
     "district": "Pasir Puteh",
     "ppvc": "Hospital Tengku Anis",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.8329518,
+    "lon": 102.3855688
   },
   {
     "state": "Kelantan",
     "district": "Tanah Merah",
     "ppvc": "Hospital Tanah Merah",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.8099911,
+    "lon": 102.1501346
   },
   {
     "state": "Kelantan",
     "district": "Tumpat",
     "ppvc": "Hospital Tumpat",
     "cd": "Kelantan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.1897387,
+    "lon": 102.1551154
   },
   {
     "state": "Melaka",
@@ -692,24 +692,24 @@
     "district": "Alor Gajah",
     "ppvc": "Hospital Alor Gajah",
     "cd": "Melaka",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.3954442,
+    "lon": 102.1998172
   },
   {
     "state": "Melaka",
     "district": "Alor Gajah",
     "ppvc": "Hospital Jasin",
     "cd": "Melaka",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.3051072,
+    "lon": 102.4281358
   },
   {
     "state": "Melaka",
     "district": "Melaka Tengah",
     "ppvc": "Hospital Melaka",
     "cd": "Melaka",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.2189908,
+    "lon": 102.2593487
   },
   {
     "state": "Negeri Sembilan",
@@ -1036,56 +1036,56 @@
     "district": "Jelebu",
     "ppvc": "Hospital Jelebu",
     "cd": "negerisembilan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.9507688,
+    "lon": 102.0566841
   },
   {
     "state": "Negeri Sembilan",
     "district": "Jempol",
     "ppvc": "Hospital Jempol",
     "cd": "negerisembilan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.9033301,
+    "lon": 102.4037244
   },
   {
     "state": "Negeri Sembilan",
     "district": "Kuala Pilah",
     "ppvc": "Hospital Tuanku Ampuan Najihah",
     "cd": "negerisembilan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.7348657,
+    "lon": 102.2308982
   },
   {
     "state": "Negeri Sembilan",
     "district": "Port Dickson",
     "ppvc": "Hospital Port Dickson",
     "cd": "negerisembilan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.4777276,
+    "lon": 101.8528214
   },
   {
     "state": "Negeri Sembilan",
     "district": "Rembau",
     "ppvc": "Hospital Rembau",
     "cd": "negerisembilan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.5926461,
+    "lon": 102.0752038
   },
   {
     "state": "Negeri Sembilan",
     "district": "Seremban",
     "ppvc": "Hospital Tuanku Ja'Afar",
     "cd": "negerisembilan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.7077255,
+    "lon": 101.9317805
   },
   {
     "state": "Negeri Sembilan",
     "district": "Tampin",
     "ppvc": "Hospital Tampin",
     "cd": "negerisembilan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.4782817,
+    "lon": 102.2241164
   },
   {
     "state": "Pahang",
@@ -1428,88 +1428,88 @@
     "district": "Bentong",
     "ppvc": "Hospital Bentong",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.5148909,
+    "lon": 101.9044542
   },
   {
     "state": "Pahang",
     "district": "Cameron Highlands",
     "ppvc": "Hospital Sultanah Hajjah Kalsom",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.4667742,
+    "lon": 101.3890202
   },
   {
     "state": "Pahang",
     "district": "Jerantut",
     "ppvc": "Hospital Jerantut",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.9293159,
+    "lon": 102.3579816
   },
   {
     "state": "Pahang",
     "district": "Kuantan",
     "ppvc": "Hospital Tengku Ampuan Afzan",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.8009173,
+    "lon": 103.3193261
   },
   {
     "state": "Pahang",
     "district": "Lipis",
     "ppvc": "Hospital Kuala Lipis",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.1826046,
+    "lon": 102.0534248
   },
   {
     "state": "Pahang",
     "district": "Maran",
     "ppvc": "Hospital Jengka",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.7731272,
+    "lon": 102.5495178
   },
   {
     "state": "Pahang",
     "district": "Pekan",
     "ppvc": "Hospital Pekan",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.496001,
+    "lon": 103.3803378
   },
   {
     "state": "Pahang",
     "district": "Raub",
     "ppvc": "Hospital Raub",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.8015449,
+    "lon": 101.8507681
   },
   {
     "state": "Pahang",
     "district": "Rompin",
     "ppvc": "Hospital Muadzam Shah",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.0537991,
+    "lon": 103.0887274
   },
   {
     "state": "Pahang",
     "district": "Rompin",
     "ppvc": "Hospital Rompin",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.7960999,
+    "lon": 103.4939233
   },
   {
     "state": "Pahang",
     "district": "Temerloh",
     "ppvc": "Hospital Sultan Hj Ahmad Shah",
     "cd": "Pahang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.453707,
+    "lon": 102.4506101
   },
   {
     "state": "Perak",
@@ -1620,112 +1620,112 @@
     "district": "Muallim",
     "ppvc": "Hospital Slim River",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.8387897,
+    "lon": 101.4029827
   },
   {
     "state": "Perak",
     "district": "Batang Padang",
     "ppvc": "Hospital Tapah",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.2018538,
+    "lon": 101.257423
   },
   {
     "state": "Perak",
     "district": "Hilir Perak",
     "ppvc": "Hospital Teluk Intan",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.0028119,
+    "lon": 101.0384548
   },
   {
     "state": "Perak",
     "district": "Hulu Perak",
     "ppvc": "Hospital Gerik",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.4293676,
+    "lon": 101.1252228
   },
   {
     "state": "Perak",
     "district": "Kerian",
     "ppvc": "Hospital Parit Buntar",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.1078633,
+    "lon": 100.4669186
   },
   {
     "state": "Perak",
     "district": "Kinta",
     "ppvc": "Hospital  Raja Permaisuri Bainun",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.6028371,
+    "lon": 101.0883175
   },
   {
     "state": "Perak",
     "district": "Kinta",
     "ppvc": "Hospital Batu Gajah",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.4800055,
+    "lon": 101.0331251
   },
   {
     "state": "Perak",
     "district": "Kinta",
     "ppvc": "Hospital Bahagia Ulu Kinta",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.6573479,
+    "lon": 101.1355081
   },
   {
     "state": "Perak",
     "district": "Kuala Kangsar",
     "ppvc": "Hospital Kuala Kangsar",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.7730658,
+    "lon": 100.9297794
   },
   {
     "state": "Perak",
     "district": "Larut dan Matang",
     "ppvc": "Hospital Selama",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.2131237,
+    "lon": 100.6866865
   },
   {
     "state": "Perak",
     "district": "Larut dan Matang",
     "ppvc": "Hospital Taiping",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.8577745,
+    "lon": 100.7307751
   },
   {
     "state": "Perak",
     "district": "Manjung",
     "ppvc": "Hospital Seri Manjung",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.1855526,
+    "lon": 100.6596364
   },
   {
     "state": "Perak",
     "district": "Perak Tengah",
     "ppvc": "Hospital Changkat Melintang",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.312958,
+    "lon": 100.9083023
   },
   {
     "state": "Perak",
     "district": "Kampar",
     "ppvc": "Hospital Kampar",
     "cd": "Perak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.323843,
+    "lon": 101.137112
   },
   {
     "state": "Perlis",
@@ -1738,10 +1738,10 @@
   {
     "state": "Perlis",
     "district": "Perlis",
-    "ppvc": "Hospital Tuanku Fauziah",
+    "ppvc": "Hospital Tuanku Fauziah (Kangar Hospital)",
     "cd": "Perlis",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.4403435,
+    "lon": 100.1886363
   },
   {
     "state": "Pulau Pinang",
@@ -1788,48 +1788,48 @@
     "district": "Barat Daya",
     "ppvc": "Hospital Balik Pulau",
     "cd": "penang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.3501433,
+    "lon": 100.2307134
   },
   {
     "state": "Pulau Pinang",
     "district": "Seberang Perai Selatan",
     "ppvc": "Hospital Sungai Bakap",
     "cd": "penang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.2192779,
+    "lon": 100.4950559
   },
   {
     "state": "Pulau Pinang",
     "district": "Seberang Perai Tengah",
     "ppvc": "Hospital Bukit Mertajam",
     "cd": "penang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.3597074,
+    "lon": 100.4623723
   },
   {
     "state": "Pulau Pinang",
     "district": "Seberang Perai Tengah",
     "ppvc": "Hospital Seberang Jaya",
     "cd": "penang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.3941082,
+    "lon": 100.4056384
   },
   {
     "state": "Pulau Pinang",
     "district": "Seberang Perai Utara",
     "ppvc": "Hospital Kepala Batas",
     "cd": "penang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.5126465,
+    "lon": 100.4343842
   },
   {
     "state": "Pulau Pinang",
     "district": "Timur Laut",
     "ppvc": "Hospital Pulau Pinang",
     "cd": "penang",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.4119093,
+    "lon": 100.2942731
   },
   {
     "state": "Sabah",
@@ -1884,184 +1884,184 @@
     "district": "Beaufort",
     "ppvc": "Hospital Beaufort",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 0.7064183,
+    "lon": 117.9346679
   },
   {
     "state": "Sabah",
     "district": "Beluran",
     "ppvc": "Hospital Beluran",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.8934947,
+    "lon": 117.5532422
   },
   {
     "state": "Sabah",
     "district": "Keningau",
     "ppvc": "Hospital Keningau",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.3704753,
+    "lon": 116.1799693
   },
   {
     "state": "Sabah",
     "district": "Kinabatangan",
     "ppvc": "Hospital Kinabatangan",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.584963,
+    "lon": 117.8482292
   },
   {
     "state": "Sabah",
     "district": "Kota Belud",
     "ppvc": "Hospital Kota Belud",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.3453643,
+    "lon": 116.4247174
   },
   {
     "state": "Sabah",
     "district": "Kota Kinabalu",
     "ppvc": "Hospital Queen Elizabeth",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.9602072,
+    "lon": 116.0741165
   },
   {
     "state": "Sabah",
     "district": "Kota Kinabalu",
     "ppvc": "Hospital Wanita Dan Kanak - Kanak, Likas",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.0138039,
+    "lon": 116.1173112
   },
   {
     "state": "Sabah",
     "district": "Kota Kinabalu",
     "ppvc": "Hospital Mesra Bukit Padang",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.9504643,
+    "lon": 116.1031609
   },
   {
     "state": "Sabah",
     "district": "Kota Kinabalu",
-    "ppvc": "Hospital Queen Elizabeth Ii",
+    "ppvc": "Hospital Queen Elizabeth II",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.9664872,
+    "lon": 116.0916041
   },
   {
     "state": "Sabah",
     "district": "Kota Marudu",
     "ppvc": "Hospital Kota Marudu",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.4573691,
+    "lon": 116.773832
   },
   {
     "state": "Sabah",
     "district": "Kuala Penyu",
     "ppvc": "Hospital Kuala Penyu",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.5602788,
+    "lon": 115.5833686
   },
   {
     "state": "Sabah",
     "district": "Kudat",
     "ppvc": "Hospital Kudat",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.9066627,
+    "lon": 116.835754
   },
   {
     "state": "Sabah",
     "district": "Kunak",
     "ppvc": "Hospital Kunak",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.6771175,
+    "lon": 118.2301104
   },
   {
     "state": "Sabah",
     "district": "Lahad Datu",
     "ppvc": "Hospital Lahad Datu",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.0266887,
+    "lon": 118.3114849
   },
   {
     "state": "Sabah",
     "district": "Papar",
     "ppvc": "Hospital Papar",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.7268546,
+    "lon": 115.9215827
   },
   {
     "state": "Sabah",
     "district": "Pitas",
     "ppvc": "Hospital Pitas",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.7119297,
+    "lon": 117.0274565
   },
   {
     "state": "Sabah",
     "district": "Ranau",
     "ppvc": "Hospital Ranau",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.9533942,
+    "lon": 116.6687523
   },
   {
     "state": "Sabah",
     "district": "Sandakan",
     "ppvc": "Hospital Duchess Of Kent",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.8589537,
+    "lon": 118.1007672
   },
   {
     "state": "Sabah",
     "district": "Sipitang",
     "ppvc": "Hospital Sipitang",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.0964878,
+    "lon": 115.5607703
   },
   {
     "state": "Sabah",
     "district": "Tambunan",
     "ppvc": "Hospital Tambunan",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.6825392,
+    "lon": 116.3688417
   },
   {
     "state": "Sabah",
     "district": "Tawau",
     "ppvc": "Hospital Tawau",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.2488053,
+    "lon": 117.8805458
   },
   {
     "state": "Sabah",
     "district": "Tenom",
     "ppvc": "Hospital Tenom",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.1231747,
+    "lon": 115.9390973
   },
   {
     "state": "Sabah",
     "district": "Tuaran",
     "ppvc": "Hospital Tuaran",
     "cd": "Sabah",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 6.1428914,
+    "lon": 116.2168982
   },
   {
     "state": "Sarawak",
@@ -2316,8 +2316,8 @@
     "district": "Song",
     "ppvc": "Rumah Rehat Song",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.0096139,
+    "lon": 112.5474856
   },
   {
     "state": "Sarawak",
@@ -2468,168 +2468,168 @@
     "district": "Bau",
     "ppvc": "Hospital Bau",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.4295005,
+    "lon": 110.1404546
   },
   {
     "state": "Sarawak",
     "district": "Betong",
     "ppvc": "Hospital Betong",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.3739821,
+    "lon": 111.5715781
   },
   {
     "state": "Sarawak",
     "district": "Bintulu",
     "ppvc": "Hospital Bintulu",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.2312611,
+    "lon": 113.089675
   },
   {
     "state": "Sarawak",
     "district": "Daro",
     "ppvc": "Hospital Daro",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.5218077,
+    "lon": 111.4109782
   },
   {
     "state": "Sarawak",
     "district": "Kanowit",
     "ppvc": "Hospital Kanowit",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.1027581,
+    "lon": 112.1501252
   },
   {
     "state": "Sarawak",
     "district": "Kapit",
     "ppvc": "Hospital Kapit",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.0138652,
+    "lon": 112.940467
   },
   {
     "state": "Sarawak",
     "district": "Kuching",
     "ppvc": "Hospital Umum Sarawak",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.5432042,
+    "lon": 110.3386591
   },
   {
     "state": "Sarawak",
     "district": "Kuching",
     "ppvc": "Hospital Sentosa",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.4629967,
+    "lon": 110.3276477
   },
   {
     "state": "Sarawak",
     "district": "Lawas",
     "ppvc": "Hospital Lawas",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.8543947,
+    "lon": 115.4024021
   },
   {
     "state": "Sarawak",
     "district": "Limbang",
     "ppvc": "Hospital Limbang",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.7642525,
+    "lon": 115.0168481
   },
   {
     "state": "Sarawak",
     "district": "Lundu",
     "ppvc": "Hospital Lundu",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.6756146,
+    "lon": 109.8509268
   },
   {
     "state": "Sarawak",
     "district": "Marudi",
     "ppvc": "Hospital Marudi",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.1784081,
+    "lon": 114.3231658
   },
   {
     "state": "Sarawak",
     "district": "Miri",
     "ppvc": "Hospital Miri",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.3923763,
+    "lon": 113.9795338
   },
   {
     "state": "Sarawak",
     "district": "Mukah",
     "ppvc": "Hospital Mukah",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.9008306,
+    "lon": 112.0741634
   },
   {
     "state": "Sarawak",
     "district": "Samarahan",
-    "ppvc": "Pusat Jantung Sarawak",
+    "ppvc": "Sarawak Heart Centre (Pusat Jantung Sarawak)",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.4811252,
+    "lon": 110.4180104
   },
   {
     "state": "Sarawak",
     "district": "Saratok",
     "ppvc": "Hospital Saratok",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.74945,
+    "lon": 111.3359164
   },
   {
     "state": "Sarawak",
     "district": "Sarikei",
     "ppvc": "Hospital Sarikei",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.1319958,
+    "lon": 111.489813
   },
   {
     "state": "Sarawak",
     "district": "Serian",
     "ppvc": "Hospital Serian",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.1762658,
+    "lon": 110.5614211
   },
   {
     "state": "Sarawak",
     "district": "Sibu",
     "ppvc": "Hospital Sibu",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.2968556,
+    "lon": 111.8895005
   },
   {
     "state": "Sarawak",
     "district": "Simunjan",
     "ppvc": "Hospital Simunjan",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.3700471,
+    "lon": 110.7840658
   },
   {
     "state": "Sarawak",
     "district": "Sri Aman",
     "ppvc": "Hospital Sri Aman",
     "cd": "Sarawak",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 1.2343801,
+    "lon": 111.4607466
   },
   {
     "state": "Selangor",
@@ -2764,96 +2764,96 @@
     "district": "Gombak",
     "ppvc": "Hospital Selayang",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.2429526,
+    "lon": 101.6455861
   },
   {
     "state": "Selangor",
     "district": "Gombak",
     "ppvc": "Hospital Sungai Buluh",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.2206065,
+    "lon": 101.5831036
   },
   {
     "state": "Selangor",
     "district": "Gombak",
     "ppvc": "Hospital Orang Asli Gombak",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.2919717,
+    "lon": 101.7287826
   },
   {
     "state": "Selangor",
     "district": "Hulu Langat",
     "ppvc": "Hospital Kajang",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.9924661,
+    "lon": 101.7809747
   },
   {
     "state": "Selangor",
     "district": "Hulu Langat",
     "ppvc": "Hospital Ampang",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.1281184,
+    "lon": 101.7538076
   },
   {
     "state": "Selangor",
     "district": "Hulu Selangor",
     "ppvc": "Hospital Kuala Kubu Bharu",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.5642346,
+    "lon": 101.650885
   },
   {
     "state": "Selangor",
     "district": "Klang",
     "ppvc": "Hospital Tengku Ampuan Rahimah",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.0319381,
+    "lon": 101.4346966
   },
   {
     "state": "Selangor",
     "district": "Kuala Langat",
     "ppvc": "Hospital Banting",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.8028617,
+    "lon": 101.4916392
   },
   {
     "state": "Selangor",
     "district": "Kuala Selangor",
     "ppvc": "Hospital Tanjung Karang",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.4046432,
+    "lon": 101.1864719
   },
   {
     "state": "Selangor",
     "district": "Petaling",
     "ppvc": "Hospital Shah Alam",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.0601417,
+    "lon": 101.4890428
   },
   {
     "state": "Selangor",
     "district": "Sabak Bernam",
     "ppvc": "Hospital Tengku Ampuan Jemaah",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.7612703,
+    "lon": 100.9875965
   },
   {
     "state": "Selangor",
     "district": "Sepang",
     "ppvc": "Hospital Serdang",
     "cd": "Selangor",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.9791844,
+    "lon": 101.7099759
   },
   {
     "state": "Terengganu",
@@ -2924,48 +2924,48 @@
     "district": "Besut",
     "ppvc": "Hospital Besut",
     "cd": "Terengganu",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.7296961,
+    "lon": 102.4898583
   },
   {
     "state": "Terengganu",
     "district": "Dungun",
     "ppvc": "Hospital Dungun",
     "cd": "Terengganu",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.7522185,
+    "lon": 103.4123668
   },
   {
     "state": "Terengganu",
     "district": "Hulu Terengganu",
     "ppvc": "Hospital Hulu Terengganu",
     "cd": "Terengganu",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.0732163,
+    "lon": 103.042586
   },
   {
     "state": "Terengganu",
     "district": "Kemaman",
     "ppvc": "Hospital Kemaman",
     "cd": "Terengganu",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 4.231496,
+    "lon": 103.4177043
   },
   {
     "state": "Terengganu",
     "district": "Kuala Terengganu",
     "ppvc": "Hospital Sultanah Nur Zahirah",
     "cd": "Terengganu",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.323906,
+    "lon": 103.148485
   },
   {
     "state": "Terengganu",
     "district": "Setiu",
     "ppvc": "Hospital Setiu",
     "cd": "Terengganu",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.5141275,
+    "lon": 102.767328
   },
   {
     "state": "W.P. Kuala Lumpur",
@@ -3004,8 +3004,8 @@
     "district": "W.P. Kuala Lumpur",
     "ppvc": "Hospital Kuala Lumpur",
     "cd": "wpkualalumpur",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 3.1464257,
+    "lon": 101.6681442
   },
   {
     "state": "W.P. Labuan",
@@ -3028,8 +3028,8 @@
     "district": "W.P. Labuan",
     "ppvc": "Hospital Labuan",
     "cd": "labuan",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 5.311145,
+    "lon": 115.2278291
   },
   {
     "state": "W.P. Putrajaya",
@@ -3044,15 +3044,15 @@
     "district": "W.P. Putrajaya",
     "ppvc": "Hospital Putrajaya",
     "cd": "wpputrajaya",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.9286511,
+    "lon": 101.6726691
   },
   {
     "state": "W.P. Putrajaya",
     "district": "W.P. Putrajaya",
     "ppvc": "Institut Kanser Negara",
     "cd": "wpputrajaya",
-    "lat": 0.0,
-    "lon": 0.0
+    "lat": 2.9280297,
+    "lon": 101.6746638
   }
 ]

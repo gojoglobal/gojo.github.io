@@ -1,11 +1,11 @@
 {
-    "name": "GOJO drives you to your vaccine center",
-    "short_name": "ppvc_location",
+    "name": "Have a vaccine appointment? Book a ride with GOJO!",
+    "short_name": "GOJO Vaksin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Prebook GOJO and we will take you to get your vaccine and back home!",
+    "description": "To help Malaysia fight against COVID-19, GOJO is offering 10% discount on rides to get your vaccine shot!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
