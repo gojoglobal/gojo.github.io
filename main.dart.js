@@ -14892,7 +14892,7 @@ a7L:function a7L(a){this.a=a},
 a7K:function a7K(a){this.a=a},
 a7J:function a7J(a){this.a=a},
 a7I:function a7I(a){this.a=a},
-a7H:function a7H(){},
+a7H:function a7H(a){this.a=a},
 afv:function(a,b,c){var s=K.aN(a)
 if(c>0)s.toString
 return b}},E={
@@ -61803,13 +61803,14 @@ s.toString
 J.hu(Y.pa(s,!1,t.cH),new X.mW(a))},
 $S:134}
 R.a7I.prototype={
-$2:function(a,b){var s=null,r=t._
-return R.abg(!1,!0,M.fH(s,T.o3(H.b([C.ba,T.ac3(H.b([T.aaZ(L.ww(this.a[b].c,s,s,s,s,s,s)),C.ph],r),C.bf,C.k8,C.aA),C.ba,C.j5],r),C.bP,C.b5,C.aA),s,s,s,s,C.bT,s),s,!0,s,s,s,s,s,s,s,s,s,new R.a7H(),s,s,s)},
+$2:function(a,b){var s=null,r=this.a[b],q=t._
+return R.abg(!1,!0,M.fH(s,T.o3(H.b([C.ba,T.ac3(H.b([T.aaZ(L.ww(r.c,s,s,s,s,s,s)),C.ph],q),C.bf,C.k8,C.aA),C.ba,C.j5],q),C.bP,C.b5,C.aA),s,s,s,s,C.bT,s),s,!0,s,s,s,s,s,s,s,s,s,new R.a7H(r),s,s,s)},
 $C:"$2",
 $R:2,
 $S:135}
 R.a7H.prototype={
-$0:function(){},
+$0:function(){var s=this.a
+window.location.href="gojosgp://transport?bookingType=later&destination="+H.c(s.f)+","+H.c(s.e)+"&promo=vaksin"},
 $S:1}
 Y.u5.prototype={
 bA:function(a){var s=($.b9+1)%16777215
