@@ -2641,6 +2641,14 @@
   },
   {
     "state": "Selangor",
+    "district": "Seri Kembangan",
+    "ppvc": "Mines International Exhibition & Convention Centre (MIECC)",
+    "cd": "Selangor",
+    "lat": 3.029779,
+    "lon": 101.7181623
+  },
+  {
+    "state": "Selangor",
     "district": "Sepang",
     "ppvc": "Klinik Dr Nina",
     "cd": "Selangor",
