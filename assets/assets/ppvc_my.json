@@ -2978,6 +2978,14 @@
   {
     "state": "W.P. Kuala Lumpur",
     "district": "Kuala Lumpur",
+    "ppvc": "Bukit Jalil National Stadium PPV",
+    "cd": "wpkualalumpur",
+    "lat": 3.0542241,
+    "lon": 101.6901992
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "district": "Kuala Lumpur",
     "ppvc": "Dewan Komuniti Bandar Manjalara",
     "cd": "wpkualalumpur",
     "lat": 3.1938,
