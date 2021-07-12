@@ -2641,6 +2641,14 @@
   },
   {
     "state": "Selangor",
+    "district": "Kajang",
+    "ppvc": "Bangi Avenue Convention Centre (PPV BACC)",
+    "cd": "Selangor",
+    "lat": 2.9007866079090867,
+    "lon": 101.79124976374881
+  },
+  {
+    "state": "Selangor",
     "district": "Seri Kembangan",
     "ppvc": "Mines International Exhibition & Convention Centre (MIECC)",
     "cd": "Selangor",
